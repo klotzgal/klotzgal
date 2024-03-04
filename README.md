@@ -10,9 +10,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klotzgal&layout=compact&theme=github_dark" />
 </a>
 <br></br>
-<a href="https://github.com/klotzgal/3DViewer_v1.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klotzgal&repo=3DViewer_v1.0&theme=github_dark" />
+<a href="https://github.com/klotzgal/3DViewer_v2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klotzgal&repo=3DViewer_v2.0&theme=github_dark" />
 </a>
+<!-- <a href="https://github.com/klotzgal/3DViewer_v1.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klotzgal&repo=3DViewer_v1.0&theme=github_dark" />
+</a> -->
 <a href="https://github.com/klotzgal/LinuxMonitoring_v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klotzgal&repo=LinuxMonitoring_v2&theme=github_dark" />
 </a>
